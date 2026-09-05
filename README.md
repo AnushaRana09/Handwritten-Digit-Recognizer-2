@@ -1,9 +1,9 @@
 **Handwritten Digit Recognizer**
 
-**Project Overview**
+**Project Overview:**
 A Machine Learning project that recognizes handwritten digits using the K-Nearest Neighbors (KNN) algorithm.
 
-**Objective**
+**Objective:**
 To build a machine learning model that can identify handwritten digits from image data and predict the correct digit.
 
  **Technologies Used**
